@@ -1,0 +1,22 @@
+div{
+    margin: auto;
+    border: 3px;
+    height: 160px;
+    width: 620px;
+    border: 1px solid black;
+    margin-top: 360px;
+}
+.anime{
+    margin: auto;
+    border: 3px;
+    height: 160px;
+    width: 620px;
+
+}
+td{
+    border: 1px solid black;
+    border-collapse: collapse 1px black;
+}
+output{
+    border: 1px;
+}
